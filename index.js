@@ -1,3 +1,6 @@
+// Student Id: C0913139
+// Student Name: Ananta Poudel
+
 // Car class having `honk` method
 class Car {
   constructor(brand, model, year, color, price, gas) {
